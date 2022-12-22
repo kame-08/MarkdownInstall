@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "markdownviewsample",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kame-08/MarkdownViewSample",
+      "state" : {
+        "revision" : "14d2205eb6680300546afda322d24f82d59dfbc1",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
