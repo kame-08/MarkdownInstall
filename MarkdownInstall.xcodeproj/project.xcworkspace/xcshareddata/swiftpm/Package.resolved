@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/kame-08/MarkdownViewSample",
       "state" : {
-        "revision" : "14d2205eb6680300546afda322d24f82d59dfbc1",
-        "version" : "1.0.0"
+        "revision" : "74bd18fa0e07eb066eb8cc22b6c97e48db96e4a0",
+        "version" : "3.0.3"
       }
     }
   ],

@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct MarkdownInstallApp: App {
     var body: some Scene {

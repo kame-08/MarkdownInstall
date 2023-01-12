@@ -9,8 +9,14 @@ import SwiftUI
 import MarkdownViewSample
 
 struct ContentView: View {
+    @State var text = ""
     var body: some View {
-        MarkdownView()
+        HStack {
+            TextEditor(text: $text)
+            Divider()
+            Markdown($text)
+        }
+        .padding()
     }
 }
 
